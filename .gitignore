@@ -1,0 +1,15 @@
+# Jekyll
+/_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.jekyll-plugins/
+.jekyll-archives/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+
+# Dependency directories (e.g., Ruby gems, Node.js modules)
+/vendor/
+/node_modules/
