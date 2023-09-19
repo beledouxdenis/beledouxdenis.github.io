@@ -71,6 +71,5 @@ Sep 2011 - Jan 2012
 - Identified a critical security flaw in Vodafone's authentication design.
 - Recommendations led to a revision of their authentication mechanism, enhancing security.
 
-### Computer Siences Master's Degree
-Université de Namur  
+### Computer Siences Master's Degree - UNamur
 Sep 2007 - Aug 2012
