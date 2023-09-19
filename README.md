@@ -63,6 +63,13 @@ Sep 2012 - Nov 2012
 - Key features included vehicle registration, contract management with expiration date reminders, and tracking services, fuel logs, and odometer values.
 - Implemented cost tracking for vehicles and services, with analysis graphs for cost management.
 
+### Developer Internship - Vodafone Dusseldorf
+Sep 2011 - Jan 2012
+- Focused on mobile world authentication as part of master's degree research.
+- Analyzed security mechanisms for mobile payment using phone subscriptions on Apple Store and Google Play Store.
+- Identified a critical security flaw in Vodafone's authentication design.
+- Recommendations led to a revision of their authentication mechanism, enhancing security.
+
 ### Computer Siences Master's Degree
 Université de Namur  
 Sep 2007 - Aug 2012
