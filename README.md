@@ -1,7 +1,7 @@
 # Denis Ledoux
 ## Fullstack developer
 
-I am an experienced developer proficient in Python, with a strong background in Linux server management. My expertise also extends to cybersecurity and hacking, making me well-versed in securing digital assets. Additionally, I contribute to talent acquisition by conducting job interviews to identify and onboard skilled developers. I provide security training to other developers within the company, equipping them with the knowledge to write safer code. Moreover, I play a key role in the onboarding process for new developers, ensuring a smooth integration into the company's development team. My diverse skill set and commitment to both technical excellence and team growth make me a valuable asset in any tech-focused endeavor.
+I am an experienced developer proficient in Python, with a strong background in Linux server management. My expertise also extends to cybersecurity and hacking, making me well-versed in securing digital assets. Additionally, I provide security training to other developers within the company, equipping them with the knowledge to write safer code. I also contribute to talent acquisition by conducting job interviews to identify and onboard skilled developers. Moreover, in the past, I played a key role in the onboarding process for new developers, ensuring a smooth integration into the company's development team. My diverse skill set and commitment to both technical excellence and team growth make me a valuable asset in any tech-focused endeavor.
 
 ## Experience
 ### Cybersecurity Engineer - Odoo
@@ -26,8 +26,16 @@ Oct 2019 - Mar 2022
 - Pioneered innovative approaches to tackle problems that didn't have specific bug fixes, including the development of intelligent algorithms to automatically correct data.
 - Contributed to the creation of a new platform for database upgrades, streamlining the process for customers. This platform allowed customers to upload their database dumps, initiated an isolated container for the upgrade process, and returned the upgraded database dump to the customer, enhancing efficiency and user experience.
 
+### Python Framework Developer - Odoo
+May 2019 - Oct 2019
+- Led the development effort to revamp Odoo's Python framework, resulting in more efficient updates, smarter dependencies, streamlined data storage, and optimized computation.
+- Efficient Updates: Improved how changes are made to Odoo data to reduce the number of database updates required, making it faster.
+- Smarter Dependencies: Grouped related changes together to minimize the work needed when something in the data changes, making Odoo more responsive.
+- Streamlined Data Storage: Made it easier to store and access data without worrying about who's using it or when it's needed.
+- Optimized Computation: Changed how Odoo calculates things, so it doesn't recalculate everything when only a few things change, saving time and resources.
+
 ### PaaS Platform Developer - Odoo
-Sep 2017 - Oct 2019
+Sep 2017 - May 2019
 - Spearheaded the development of the PaaS (Platform as a Service) platform "Odoo.sh."
 - Established the primary goal of Odoo.sh as providing a comprehensive continuous integration platform tailored for Odoo.
 - Enabled developers to effortlessly deploy and develop custom Odoo modules via integration with GitHub repositories, offering seamless automation for deployment processes.
@@ -35,15 +43,26 @@ Sep 2017 - Oct 2019
 - Designed and integrated a user-friendly web interface, offering an SSH shell for direct server interaction and an online code editor IDE for efficient coding and debugging.
 - Contributed to the advancement of Odoo's development ecosystem by providing developers with a powerful and integrated platform to enhance their productivity and code quality.
 
-### Python Framework Developer - Odoo
-??? - Sep 2017
-- Refactoring of the ORM in Odoo 13.0
-
-### Bugfix Lead Developer - Odoo
+### Customer Support Specialist - Odoo
+Aug 2013 - Sep 2017
+- Initially handled various customer inquiries, including administrative tasks, feature queries, configuration issues, and code bugs.
+- Adapted to Odoo's growth by specializing in technical support and resolving code-related issues.
+- Emerged as the top contributor to Odoo's source code from 2014 to September 2017, primarily due to consistently resolving bugs and making significant software improvements.
+- From January 2015, led and trained a team of three developers, collaborating to resolve customer issues and code bugs.
 
 ### SaaS Platform Developer - Odoo
-odoo.com
+Nov 2012 - Sep 2017
+- Designed a user-friendly process for customers to easily sign up, create their own database, choose a name, and pick the apps they wanted to use.
+- Assisted in building the behind-the-scenes technology that made the platform work smoothly.
+- Developed the system that determined how much customers paid for using Odoo Online.
+- Ensured that customers could pay their subscriptions safely and conveniently using credit cards.
 
 ### Fleet App Developer - Odoo
+Sep 2012 - Nov 2012
+- Developed Odoo's Fleet app, designed for efficient company car management.
+- Key features included vehicle registration, contract management with expiration date reminders, and tracking services, fuel logs, and odometer values.
+- Implemented cost tracking for vehicles and services, with analysis graphs for cost management.
 
-
+### Computer Siences Master's Degree
+Université de Namur  
+Sep 2007 - Aug 2012
