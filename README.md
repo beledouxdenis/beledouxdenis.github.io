@@ -9,6 +9,7 @@ Jan 2023 - Today
 - Identify and address security vulnerabilities in Odoo source code.
 - Actively participate in bug bounty programs to resolve reported security issues.
 - Conduct proactive security assessments to identify potential vulnerabilities independently.
+- Provide training to developers to raise awareness of security practices and promote writing safer code.
 
 ### Python Framework Developer - Odoo
 Mar 2022 - Jan 2023
@@ -24,7 +25,7 @@ Oct 2019 - Mar 2022
 - Successfully increased the rate of databases that could upgrade without manual bug fixes from approximately 50% to around 98%.
 - Implemented solutions to address longstanding issues by addressing a backlog of manual bug fixes, consolidating them into a generic upgrade script.
 - Pioneered innovative approaches to tackle problems that didn't have specific bug fixes, including the development of intelligent algorithms to automatically correct data.
-- Contributed to the creation of a new platform for database upgrades, streamlining the process for customers. This platform allowed customers to upload their database dumps, initiated an isolated container for the upgrade process, and returned the upgraded database dump to the customer, enhancing efficiency and user experience.
+- Contributed to the creation of a new platform for database upgrades, streamlining the process for customers. This platform allows customers to upload their database dumps, initiates an isolated container for the upgrade process, and returns the upgraded database dump to the customer, enhancing efficiency and user experience.
 
 ### Python Framework Developer - Odoo
 May 2019 - Oct 2019
@@ -65,7 +66,7 @@ Sep 2012 - Nov 2012
 
 ### Developer Internship - Vodafone Dusseldorf
 Sep 2011 - Jan 2012
-- Focused on mobile world authentication as part of master's degree research.
+- Focused on mobile world authentication as part of master's degree thesis research.
 - Analyzed security mechanisms for mobile payment using phone subscriptions on Apple Store and Google Play Store.
 - Identified a critical security flaw in Vodafone's authentication design.
 - Recommendations led to a revision of their authentication mechanism, enhancing security.
